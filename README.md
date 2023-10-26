@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anasharoon
 - 👀 I’m interested in CS and Web Development 
-- 🌱 I’m currently doing CS
+- 🌱 I’m currently doing CS from IST Islamabad
 - 📫 How to reach me Anasharoonah150@gmail.com
 
 <!---
